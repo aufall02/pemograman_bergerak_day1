@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
             viewNama.setText(nama);
             viewNIM.setText(nim);
             viewAlamat.setText(alamat);
-            System.out.println(v);
         });
 
 
